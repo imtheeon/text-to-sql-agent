@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.py[cod]
+data/analytics.duckdb
+.venv/
+venv/
+.streamlit/secrets.toml
+*.egg-info/
+dist/
+.DS_Store
